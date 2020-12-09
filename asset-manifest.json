@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/company-website/static/css/main.045c0126.chunk.css",
+    "main.js": "/company-website/static/js/main.107ec7d0.chunk.js",
+    "main.js.map": "/company-website/static/js/main.107ec7d0.chunk.js.map",
+    "runtime-main.js": "/company-website/static/js/runtime-main.ff13487e.js",
+    "runtime-main.js.map": "/company-website/static/js/runtime-main.ff13487e.js.map",
+    "static/css/2.5be27b38.chunk.css": "/company-website/static/css/2.5be27b38.chunk.css",
+    "static/js/2.84926113.chunk.js": "/company-website/static/js/2.84926113.chunk.js",
+    "static/js/2.84926113.chunk.js.map": "/company-website/static/js/2.84926113.chunk.js.map",
+    "static/js/3.e856fc6d.chunk.js": "/company-website/static/js/3.e856fc6d.chunk.js",
+    "static/js/3.e856fc6d.chunk.js.map": "/company-website/static/js/3.e856fc6d.chunk.js.map",
+    "index.html": "/company-website/index.html",
+    "static/css/2.5be27b38.chunk.css.map": "/company-website/static/css/2.5be27b38.chunk.css.map",
+    "static/css/main.045c0126.chunk.css.map": "/company-website/static/css/main.045c0126.chunk.css.map",
+    "static/js/2.84926113.chunk.js.LICENSE.txt": "/company-website/static/js/2.84926113.chunk.js.LICENSE.txt",
+    "static/media/1.319d969d.jpg": "/company-website/static/media/1.319d969d.jpg",
+    "static/media/1.39561c47.jpg": "/company-website/static/media/1.39561c47.jpg",
+    "static/media/1.62179a09.jpg": "/company-website/static/media/1.62179a09.jpg",
+    "static/media/1.7660999a.jpg": "/company-website/static/media/1.7660999a.jpg",
+    "static/media/2.2aaf658f.png": "/company-website/static/media/2.2aaf658f.png",
+    "static/media/2.c3ce9249.jpg": "/company-website/static/media/2.c3ce9249.jpg",
+    "static/media/2.d0d0c104.jpg": "/company-website/static/media/2.d0d0c104.jpg",
+    "static/media/2.e0d233e3.jpg": "/company-website/static/media/2.e0d233e3.jpg",
+    "static/media/3.03a33a9d.jpg": "/company-website/static/media/3.03a33a9d.jpg",
+    "static/media/3.608a1a3f.jpg": "/company-website/static/media/3.608a1a3f.jpg",
+    "static/media/3.7fa7f54f.jpg": "/company-website/static/media/3.7fa7f54f.jpg",
+    "static/media/3.81d0d7c6.jpg": "/company-website/static/media/3.81d0d7c6.jpg",
+    "static/media/4.088301fe.jpg": "/company-website/static/media/4.088301fe.jpg",
+    "static/media/5.1baff375.jpg": "/company-website/static/media/5.1baff375.jpg",
+    "static/media/about.9e224022.jpg": "/company-website/static/media/about.9e224022.jpg",
+    "static/media/carrer.41ceb0a4.jpg": "/company-website/static/media/carrer.41ceb0a4.jpg",
+    "static/media/contact.05a7633d.jpg": "/company-website/static/media/contact.05a7633d.jpg",
+    "static/media/team.4f86d4b7.png": "/company-website/static/media/team.4f86d4b7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff13487e.js",
+    "static/css/2.5be27b38.chunk.css",
+    "static/js/2.84926113.chunk.js",
+    "static/css/main.045c0126.chunk.css",
+    "static/js/main.107ec7d0.chunk.js"
+  ]
+}
