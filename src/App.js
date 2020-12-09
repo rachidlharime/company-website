@@ -15,7 +15,7 @@ function App(props) {
 
   return (
     <div className="App">
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <Header />
         <Container fluid className='text-center'>
           <Switch>
@@ -24,6 +24,7 @@ function App(props) {
             <Route exact path="/team" component={Team} ></Route>
             <Route exact path="/about" component={About} ></Route>
             <Route exact path="/" component={Home} ></Route>
+            <Route component={NotFound} ></Route>
           </Switch>
         </Container>
         <Footer />
