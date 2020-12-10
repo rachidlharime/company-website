@@ -36,7 +36,8 @@ function Footer(props){
           </Container>
           <div className="footer-copyright text-center py-3">
             <Container fluid>
-              &copy; {new Date().getFullYear()} Copyright: <a href="#!"> Rachid L'harime </a>
+              &copy; {new Date().getFullYear()} Copyright: 
+              <a href="https://github.com/rachidlharime"> Rachid L'harime </a>
             </Container>
           </div>
         </footer>

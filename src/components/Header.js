@@ -13,7 +13,7 @@ function Header(){
     
     return (
       <Navbar expand="md" dark color='dark' fixed='top'>
-        <Link to="/" className='navbar-brand'>reactstrap</Link>
+        <Link to="/" className='navbar-brand'>Company</Link>
         <NavbarToggler onClick={toggle}/>
         <Collapse isOpen={isOpen} navbar>
           <Nav className="ml-auto" navbar>
